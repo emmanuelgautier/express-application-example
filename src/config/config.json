@@ -1,0 +1,8 @@
+{
+  "app": {
+    "port": 3000
+  },
+  "db": {
+    "uri": "mongodb://localhost/app"
+  }
+}
